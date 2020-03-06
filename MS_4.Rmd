@@ -15,3 +15,5 @@ library(janitor)
 I have been having laptop issues so havn't made as much progress as I would have liked, but I know that I have most of the data I need. Now my aim now is to be able to overlay the data both on visual plots but also visualise certain data points on a map of the UK similar to what we have seen in class.
 
 The data I have is catergorized by area ID codes that mostly match up between the data files I have as they have all come from the UK goverment. To compare between them I need to first clean up the sheets by removing unnecessary rows and columns and selecting the most relevant columns based on age groups percentages and unemployment percentages (allowing for different population numbers). 
+
+By next week I should hopefully have the data in an easier to use format.
